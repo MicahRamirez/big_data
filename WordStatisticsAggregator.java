@@ -29,7 +29,7 @@ import java.util.StringTokenizer;
  *
  * Removes punctuation and maps all words to lower case.
  *
- * @author David Franke (dfranke@cs.utexas.edu)
+ * @author Micah Ramirez
  */
 public class WordStatisticsAggregator {
 

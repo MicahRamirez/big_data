@@ -11,7 +11,7 @@ import java.util.Iterator;
  *
  * Several helper methods have been added to facilitate the use of this class.
  *
- * @author David Franke (dfranke@cs.utexas.edu)
+ * @author Micah Ramirez
  */
 public class DoubleArrayWritable extends ArrayWritable {
 
