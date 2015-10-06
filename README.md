@@ -2,4 +2,6 @@
 
 Sample of a project done in big data programming course.
 
-The project available is a program that calculates word statisics in a file. Each word's total count, mean apperance, and standard deviation is calculated.
+MapReduce program to collect word statistics per paragraph in the input document
+
+I have extracted the src files out of their directory structure needed in order to run on an AWS Hadoop cluster
